@@ -1,0 +1,7 @@
+modelzoo
+datasets
+outputs
+offload
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
